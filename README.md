@@ -1,7 +1,7 @@
 <div align="center">
 
   
-### <div align="center">Hi, I'm Albert Gacek</div>
+### <div align="center">Hi, I'm Albert Gacek.</div>
 ### <div align="center">A passionate Java Backend Developer.</div>
 <br/><br/>
 
